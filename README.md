@@ -2,6 +2,6 @@
 To-do list app built with React.js
 
 
-###Run
-'npm install'
-'npm start'
+#Run
+'npm install'   'npm start'
+
